@@ -33,6 +33,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/cristian/git/CatedraApp/CatedraProyecto/src/primefaces-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cristian/git/Proyecto Catedra/CatedraProyecto/src/primefaces-6.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
